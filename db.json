@@ -1,0 +1,34 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "name": "usuário 1",
+            "age": "35",
+            "profille": "Administrador"
+        },
+        {
+            "id": 2,
+            "name": "usuário 2",
+            "age": "35",
+            "profille": "Diretor"
+        },
+        {
+            "id": 3,
+            "name": "usuário 3",
+            "age": "35",
+            "profille": "Gerente"
+        },
+        {
+            "id": 4,
+            "name": "usuário 4",
+            "age": "35",
+            "profille": "Consultor"
+        },
+        {
+            "id": 5,
+            "name": "usuário 5",
+            "age": "35",
+            "profille": "Funcionario"
+        }
+    ]
+}
